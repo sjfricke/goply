@@ -1,6 +1,8 @@
 package goply
 
-import fmt
+import (
+	"fmt"
+)
 
 func test() {
   fmt.Println("goply")
